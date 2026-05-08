@@ -69,7 +69,7 @@ export default function ContactSection() {
             <p className="mono-label mb-4">System Status</p>
             <div className="flex flex-col gap-3">
               {[
-                { key: "availability", val: "OPEN — Summer 2025", ok: true },
+                { key: "availability", val: "OPEN — Summer 2026", ok: true },
                 { key: "internship_type", val: "Embedded / IoT / Web", ok: true },
                 { key: "location", val: "Tunisia + Remote", ok: true },
                 { key: "response_time", val: "< 24 hours", ok: true },
