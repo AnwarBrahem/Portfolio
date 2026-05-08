@@ -4,7 +4,7 @@ import { motion } from "framer-motion";
 
 const LINKS = [
   { label: "email", value: "anwarbrahem22@gmail.com", href: "mailto:anwarbrahem22@gmail.com" },
-  { label: "github", value: "github.com/HLSnipey", href: "https://github.com/HLSnipey" },
+  { label: "github", value: "github.com/AnwarBrahem", href: "https://github.com/AnwarBrahem" },
   { label: "linkedin", value: "linkedin.com/in/anwar-brahem", href: "https://linkedin.com/in/anwar-brahem" },
   { label: "location", value: "Monastir, Tunisia", href: null },
 ];
