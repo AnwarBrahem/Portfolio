@@ -186,14 +186,14 @@ export default function Hero() {
               ./view_projects
             </a>
             <a
-              href="mailto:anwarbrahem22@gmail.com"
+              href="#contact"
               className="sci-btn"
               style={{ color: "var(--text-muted)" }}
             >
               ./contact_me
             </a>
             <a
-              href="https://github.com/HLSnipey"
+              href="https://github.com/AnwarBrahem"
               target="_blank"
               rel="noopener noreferrer"
               className="sci-btn"
